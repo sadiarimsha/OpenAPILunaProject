@@ -14,6 +14,9 @@ Run Locally:
 Files:
 
 index.html — main page
+
 css/style.css — styles
+
 js/app.js — API logic
+
 
